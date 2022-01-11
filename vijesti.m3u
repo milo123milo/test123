@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,v.ts
+#EXTVLCOPT:network-caching=1000
+http://45.141.156.39:3333/sunshine/0mvoQoCN2meEc7yKCpu76EEACXmpX5Xu0aCNtLpDBl1FrzP0C9rv8j_6zc424tXUVGt2FBmDvc3CQNQqhR850bPWYnLqpNqtzkyAAnCy3Wwc3mRfjRuj3inQAbcKp_a2HPGp8ygOS3U3fpgcPSdRANbkp1wct2znJrrOs9U4XpZ0YeQivKrBBhTFkgjF0QzCls7kcG3TMEPMx-nl7TZ4vg/v.ts
